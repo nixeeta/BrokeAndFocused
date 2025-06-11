@@ -55,7 +55,7 @@ Most students:
   4. node-cron – Scheduled tasks (e.g., GPT summaries)
 
 ### AI Integration:
-`1. OpenAI GPT-4 API – Weekly insights & chat-based budgeting suggestions
+  1. OpenAI GPT-4 API – Weekly insights & chat-based budgeting suggestions
 
 ---
 
