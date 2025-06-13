@@ -1,0 +1,29 @@
+# Node modules (specific to backend)
+**/backend/node_modules/
+# Node modules (specific to frontend)
+**/frontend/node_modules/
+
+# Build output (Vite and others)
+**/dist/
+**/build/
+
+# Environment variables
+**/.env
+**/.env.local
+**/.env.*.local
+
+# Logs
+**/logs/
+**/*.log
+
+# Mac / system files
+.DS_Store
+Thumbs.db
+
+# Vite/React/Vue specific
+**/.vite/
+
+# Optional: OS or IDE-specific
+.vscode/
+.idea/
+node_modules
